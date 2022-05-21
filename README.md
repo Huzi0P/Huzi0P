@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Huz
+- 👋 Hi, I’m Huz
 
 <!---
 Huzi0P/Huzi0P is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
